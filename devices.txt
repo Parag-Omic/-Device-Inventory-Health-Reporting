@@ -1,0 +1,2 @@
+192.168.1.10 ubuntu admin password123
+192.168.1.11 centos root passw0rd!
